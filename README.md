@@ -1,5 +1,7 @@
 # 🧠 SmartWeb AI – Chrome Extension for Web Summarization
 
+![Extension Icon](./AI.png)
+
 SmartWeb AI is a Chrome Extension that summarizes web articles instantly using Google's Gemini AI API. Select your preferred summary format (brief, detailed, or bullet points) and get instant insights from any webpage.
 
 ---
